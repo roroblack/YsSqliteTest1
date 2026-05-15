@@ -22,7 +22,7 @@ string solution(string nickname) {
             answer += nickname[i];
         }
     }
-    if(answer.size() < 5) for (int i=0; i < 6 - answer.size(); i++) {
+    /*'\0' 이 문자열 마지막에 포함되어 있음을 고려해야 함*/if(answer.size() < 5) for (int i=0; i < 6 - answer.size(); i++) {
         answer += "o";
     }
     if(answer.size() > 8){
