@@ -1,10 +1,10 @@
 # [level 0] 문자열 돌리기 - 181945 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181945) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181945?language=cpp) 
 
 ### 성능 요약
 
-메모리: 3.93 MB, 시간: 1.58 ms
+메모리: 3.93 MB, 시간: 1.71 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 05월 24일 11:31:44
+2026년 05월 24일 11:33:26
 
 ### 문제 설명
 
