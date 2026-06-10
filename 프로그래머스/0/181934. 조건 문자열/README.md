@@ -1,10 +1,10 @@
 # [level 0] 조건 문자열 - 181934 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181934) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181934?language=python3) 
 
 ### 성능 요약
 
-메모리: 4 MB, 시간: 0.01 ms
+메모리: 11.3 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 09일 23:12:19
+2026년 06월 10일 13:49:44
 
 ### 문제 설명
 
