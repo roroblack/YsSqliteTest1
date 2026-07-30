@@ -1,10 +1,10 @@
 # [level 0] 접미사 배열 - 181909 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181909?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181909?language=python3) 
 
 ### 성능 요약
 
-메모리: 4.95 MB, 시간: 0.06 ms
+메모리: 11.6 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 29일 23:34:36
+2026년 07월 30일 23:17:52
 
 ### 문제 설명
 
