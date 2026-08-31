@@ -1,10 +1,10 @@
 # [level 0] n 번째 원소부터 - 181892 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181892) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181892?language=python3) 
 
 ### 성능 요약
 
-메모리: 4.76 MB, 시간: 0.01 ms
+메모리: 11.5 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 08월 30일 14:32:21
+2026년 08월 31일 21:33:26
 
 ### 문제 설명
 
